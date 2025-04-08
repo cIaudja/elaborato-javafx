@@ -7,7 +7,7 @@ La relazione è stata realizzata insieme a due compagni, mentre **l'intero codic
 
 - `specifiche.pdf` – Documento con la consegna e le specifiche richieste.
 - `relazione.pdf` – Relazione del progetto.
-- `zip/` – Contiene tutti i file del progetto JavaFX.
+- `CasaSalute 4.zip` – Contiene tutti i file del progetto JavaFX.
 
 ## Esecuzione del progetto
 
