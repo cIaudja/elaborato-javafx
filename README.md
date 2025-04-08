@@ -14,5 +14,5 @@ La relazione è stata realizzata insieme a due compagni, mentre **l'intero codic
 Per avviare il programma:
 
 1. Assicurati di avere installato JavaFX nel tuo ambiente.
-2. Apri il progetto contenuto nella cartella `zip/` con un IDE come **IntelliJ IDEA** o **Eclipse**.
+2. Apri il progetto `CasaSalute 4.zip` con un IDE come **IntelliJ IDEA** o **Eclipse**.
 3. Esegui il file `HelloApplicazion.java`, che rappresenta la pagina principale da cui avviare il funzionamento.
